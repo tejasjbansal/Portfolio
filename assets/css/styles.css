@@ -302,17 +302,20 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
-.skills__html{
-  width: 95%;
+.skills__1{
+  width: 90%;
 }
-.skills__css{
-  width: 85%;
+.skills__2{
+  width: 80%;
 }
-.skills__js{
+.skills__3{
+  width: 75%;
+}
+.skills__4{
   width: 65%;
 }
-.skills__ux{
-  width: 85%;
+.skills__5{
+  width: 60%;
 }
 .skills__img{
   border-radius: .5rem;
